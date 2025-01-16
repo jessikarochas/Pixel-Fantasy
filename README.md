@@ -24,7 +24,10 @@ Pixel-Fantasy is a custom gmenu2x theme designed for the Funkey OS, specifically
 - **OS**: Funkey OS.  
 
 ## Screenshots  
-SOON
+![001](./screenshots/001.jpg)
+![002](./screenshots/002.jpg)
+![003](./screenshots/003.jpg)
+![004](./screenshots/004.jpg)
 
 ## Contributions  
 Contributions, feedback, and suggestions are welcome!  
