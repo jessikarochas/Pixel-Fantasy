@@ -34,7 +34,7 @@ Contributions, feedback, and suggestions are welcome!
 If you’d like to improve the theme, fix bugs, or suggest features, feel free to submit an issue or create a pull request.  
 
 ## License  
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE.md).  
 
 ## Credits  
 - Theme design: [@jessikarochas](https://github.com/jessikarochas/) 
